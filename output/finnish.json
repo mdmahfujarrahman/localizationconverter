@@ -1,0 +1,15 @@
+{
+  "Account settings updated successfully.": "Tiliasetukset päivitetty onnistuneesti.",
+  "Are you sure you want to delete this item?": "Haluatko varmasti poistaa tämän kohteen?",
+  "Congratulations on your achievement!": "Onnittelut saavutuksestasi!",
+  "Error: Something went wrong. Please try again.": "Virhe: Jotain meni pieleen. Yritä uudelleen.",
+  "Password recovery instructions have been sent to your email.": "Salasanan palautusohjeet on lähetetty sähköpostiisi.",
+  "Please enter your username and password.": "Syötä käyttäjätunnuksesi ja salasanasi.",
+  "Please select a payment method.": "Valitse maksutapa.",
+  "Please wait, we are processing your request.": "Odota hetki, käsittelemme pyyntöäsi.",
+  "We have received your feedback.": "Olemme vastaanottaneet palautteesi.",
+  "Welcome to our website!": "Tervetuloa verkkosivustollemme!",
+  "You have successfully logged out.": "Olet kirjautunut ulos onnistuneesti.",
+  "Your order has been successfully placed.": "Tilauksesi on asetettu onnistuneesti.",
+  "Your session has expired. Please log in again.": "Istuntosi on päättynyt. Kirjaudu sisään uudelleen."
+}
