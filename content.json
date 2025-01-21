@@ -1,0 +1,20 @@
+{
+  "Key": "English",
+  "onboarding": {
+    "registration": {
+      "label": {
+        "username": "Username",
+        "email": "Email",
+        "password": "password",
+        "fullname": {
+          "first": "First Name",
+          "last": "Last Name"
+        }
+      },
+      "button": {
+        "login": "password",
+        "reset": "Reset Password"
+      }
+    }
+  }
+}
